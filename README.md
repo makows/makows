@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @makows
-- 👀 I’m interested in Front-End Web Development, Data Science & Machine Learning
-- 🌱 I’m currently learning Front-End WebDev, DS & ML
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... on my instagram account __makows
+- 📫 How to reach me ... on my instagram account _makows
 
 <!---
 makows/makows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
